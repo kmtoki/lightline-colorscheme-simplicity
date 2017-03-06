@@ -1,9 +1,10 @@
 # simplicity, lightline colorscheme
 for terminal and gray backround color
 
+[see also](http://qiita.com/kmtoki/items/4a9c65962ffcdeecdc7e)
+
 ## install
 
-### Plug
 ```vim
 Plug 'kmtoki/lightline-colorscheme-simplicity'
 ```
