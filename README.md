@@ -2,7 +2,11 @@
 for terminal and gray backround color
 
 ## install
-`cp simplicity.vim ~/<lightline path>/autoload/lightline/colorscheme/`
+
+### Plug
+```vim
+Plug 'kmtoki/lightline-colorscheme-simplicity'
+```
 
 and add .vimrc
 
